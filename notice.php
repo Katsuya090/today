@@ -1,4 +1,4 @@
-<title></title>
+<title>タイトル</title>
     <style>
       h1, footer { text-align:center; }
       div { width: 650px; margin: 0 auto; }
